@@ -1,6 +1,6 @@
 # ResNet Image Classification
 
-This repository contains Python code for training and evaluating Residual Networks (ResNets) for image classification tasks. Three different ResNet models (ResNet20, ResNet44, and ResNet56) are available for experimentation. The code provides a straightforward way to train and evaluate these models on ##**CIFAR-10** image dataset. Refer to the README and code for usage instructions and model performance metrics. Feel free to use and adapt this code for your image classification projects.
+This repository contains Python code for training and evaluating Residual Networks (ResNets) for image classification tasks. Three different ResNet models (ResNet20, ResNet44, and ResNet56) are available for experimentation. The code provides a straightforward way to train and evaluate these models on <span style="font-size: larger;">CIFAR-10</span> image dataset. Refer to the README and code for usage instructions and model performance metrics. Feel free to use and adapt this code for your image classification projects.
 
 Results I got are:
 
